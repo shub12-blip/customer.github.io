@@ -77,21 +77,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('config', 'G-1YW9NCLMB6');
 </script>
 
-<script>
-curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCKi_FUboU02ZnJlYQxN3ycsj2Dk4O9Pmw" \
--H 'Content-Type: application/json' \
--X POST \
--d '{
-  "contents": [{
-    "parts":[{"text": "Explain how AI works"}]
-    }]
-   }'
-</script>
 
 
 <!--start organization schema-->
 <script>
-	    <script type='application/ld+json'
+	    <script type="application/ld+json"
         "@context": "https://schema.org/",
         "@type": "CreativeWorkSeries",
         "name": "All India Computer Saksharta Mission",
@@ -136,7 +126,7 @@ curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:g
         <meta name="description" content="Founded in 1999 by Dr. M Lal, the All India Computer Saksharta Mission (AICSM) stands as a beacon of hope and opportunity for individuals seeking to.." />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 		<meta name="robots" content="max-image-preview:large"/>
-		<meta name="robots" content="max-snippet:-1">
+		<meta name="robots" content="max-snippet:1">
 		
 		
 		<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
