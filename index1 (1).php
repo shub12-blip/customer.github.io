@@ -32,7 +32,7 @@ include("adm/config.php");
 	    <script async src="https://cdn.ampproject.org/v0.js"></script>
 	    <script src="https://apis.google.com/js/platform.js?onload=renderBadge" async defer></script>
         <script src="https://analytics.ahrefs.com/analytics.js" data-key="fp3AvCnm/W8qBXTgco2yGA" defer="true"></script>
-        <script type="text/javascript" data-cmp-ab="1" src="https://cdn.consentmanager.net/delivery/autoblocking/0279f27d3178e.js" data-cmp-host="b.delivery.consentmanager.net" data-cmp-cdn="cdn.consentmanager.net" data-cmp-codesrc="16"></script>
+        
       
 
 <script type="module">
