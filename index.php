@@ -1516,7 +1516,7 @@ $('.deleteMeetingClose').click(function () {
 					<div class="container">
 						<p>
 						
-							© 2006-2021 <a>ALL INDIA COMPUTER SAKSHARTA MISSION </a>. All Rights Reserved.
+							© 1999-2026 <a>ALL INDIA COMPUTER SAKSHARTA MISSION </a>. All Rights Reserved.
 							
 							
 						</p>
